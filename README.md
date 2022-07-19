@@ -1,4 +1,4 @@
-# Tetris-Game-_web-Development-Project
+# Tetris-Game-web-Development-Project
 
 # [View Demo](https://ashutosh-pmishra.github.io/Tetris-Game-_eb-Development-Project/tetris.html)
 
